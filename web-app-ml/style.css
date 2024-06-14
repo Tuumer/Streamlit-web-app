@@ -1,0 +1,18 @@
+.main st-emotion-cache-bm2z3a ea3mdgi8 {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: #153850;
+  }
+.predict {
+    color: #fff;
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+  }
+  
+.predict.negative {
+    background-color: #01DB4B
+  }
+  
+.predict.positive {
+    background-color: #ff4b4b
+  }
